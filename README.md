@@ -60,7 +60,7 @@ Deep learning model achieving **83% accuracy** in detecting ships from satellite
 
 ---
 
-### 🔍 [Semantic Search Engine](https://github.com/ydabhimanyu279/semantic-search-engine)
+### 🔍 [Semantic Search Engine](https://github.com/ydabhimanyu279/semantic-search)
 RAG-powered semantic search system with natural language understanding for content discovery. Demonstrates 5x improvement over traditional keyword search using vector embeddings and LLMs.
 
 **Tech:** Sentence Transformers • ChromaDB • Google Gemini • Streamlit
@@ -74,18 +74,10 @@ Full-stack e-commerce style library application with RESTful APIs, JWT authentic
 
 ---
 
-### 💳 [Credit Card Prediction](https://github.com/ydabhimanyu279/credit-card-prediction)
+### 💳 [Credit Card Prediction](https://github.com/ydabhimanyu279/credit-card-prediction-model)
 ML model achieving **90%+ accuracy** in predicting credit card acceptance using Random Forest and XGBoost. Handles imbalanced data with SMOTE and advanced feature engineering.
 
 **Tech:** Python • Scikit-learn • XGBoost • Streamlit
-
----
-
-## 📊 GitHub Stats
-
-![Abhimanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydabhimanyu279&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ydabhimanyu279&layout=compact&theme=radical)
 
 ---
 
