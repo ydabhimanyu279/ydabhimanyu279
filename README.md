@@ -10,10 +10,10 @@
 
 ## What I'm Working On
 
-- 🧠 Deep Learning for Computer Vision & Geospatial Analysis
-- 🔍 RAG-powered Semantic Search Systems
-- 🎯 Building production-ready ML applications
-- 🌐 Full-Stack ML Deployment (React + Spring Boot + AWS)
+-  Deep Learning for Computer Vision & Geospatial Analysis
+-  RAG-powered Semantic Search Systems
+-  Building production-ready ML applications
+-  Full-Stack ML Deployment (React + Spring Boot + AWS)
 
 ---
 
@@ -87,8 +87,8 @@ ML model achieving **90%+ accuracy** in predicting credit card acceptance using 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ydabhimanyu279@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://ydabhimanyu279.github.io/)
 
-📍 Portland, Maine | 🎯 Open to ML/AI and Full-Stack opportunities
+ Portland, Maine | Open to ML/AI and Full-Stack opportunities
 
 ---
 
-💡 *"Building intelligent systems that solve real-world problems through the intersection of AI, software engineering, and data science."*
+ *"Building intelligent systems that solve real-world problems through the intersection of AI, software engineering, and data science."*
