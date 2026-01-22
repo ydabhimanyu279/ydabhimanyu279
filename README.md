@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Abhimanyu Yadav
+# Hi, I'm Abhimanyu Yadav
 
 ### MS AI Student @ Northeastern University
 
-🎓 Currently pursuing **Master of Science in Artificial Intelligence** at Northeastern University (4.0 GPA)  
-💼 Former **Full-Stack Developer** at FRONT.SPACE with 2+ years of production experience  
-🚀 Passionate about combining **deep learning**, **geospatial AI**, and **scalable backend systems**
+-> Currently pursuing **Master of Science in Artificial Intelligence** at Northeastern University (4.0 GPA)  
+-> Former **Full-Stack Developer** at FRONT.SPACE with 2+ years of production experience  
+-> Passionate about combining **deep learning**, **geospatial AI**, and **scalable backend systems**
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 - 🧠 Deep Learning for Computer Vision & Geospatial Analysis
 - 🔍 RAG-powered Semantic Search Systems
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,37 +51,37 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🛰️ [GeoAI Ship Detection](https://github.com/ydabhimanyu279/geoai-ship-detection)
+### [GeoAI Ship Detection](https://github.com/ydabhimanyu279/geoai-ship-detection)
 Deep learning model achieving **83% accuracy** in detecting ships from satellite imagery using ResNet50 and Focal Loss. Automated geospatial coordinate conversion with ArcGIS-compatible exports.
 
 **Tech:** PyTorch • ResNet50 • GeoPandas • Rasterio • Folium
 
 ---
 
-### 🔍 [Semantic Search Engine](https://github.com/ydabhimanyu279/semantic-search)
+### [Semantic Search Engine](https://github.com/ydabhimanyu279/semantic-search)
 RAG-powered semantic search system with natural language understanding for content discovery. Demonstrates 5x improvement over traditional keyword search using vector embeddings and LLMs.
 
 **Tech:** Sentence Transformers • ChromaDB • Google Gemini • Streamlit
 
 ---
 
-### 📚 [Library Management System](https://github.com/ydabhimanyu279/library-management-system)
+### [Library Management System](https://github.com/ydabhimanyu279/library-management-system)
 Full-stack e-commerce style library application with RESTful APIs, JWT authentication, and responsive React frontend. Comprehensive layered architecture with JUnit test coverage.
 
 **Tech:** Spring Boot • React • PostgreSQL • JPA/Hibernate
 
 ---
 
-### 💳 [Credit Card Prediction](https://github.com/ydabhimanyu279/credit-card-prediction-model)
+### [Credit Card Prediction](https://github.com/ydabhimanyu279/credit-card-prediction-model)
 ML model achieving **90%+ accuracy** in predicting credit card acceptance using Random Forest and XGBoost. Handles imbalanced data with SMOTE and advanced feature engineering.
 
 **Tech:** Python • Scikit-learn • XGBoost • Streamlit
 
 ---
 
-## 📫 Let's Connect
+## ^_^ Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ydabhimanyu/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ydabhimanyu279@gmail.com)
